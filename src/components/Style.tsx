@@ -119,7 +119,7 @@ export default function Style() {
 
         {/* Right Column - Text + Grid */}
         <motion.div 
-          className="flex flex-col justify-between w-full lg:w-1/2 gap-8 px-12"
+          className="flex flex-col justify-between w-full lg:w-1/2 gap-8 md:px-12"
           variants={gridVariants}
         >
           {/* Text Section */}
