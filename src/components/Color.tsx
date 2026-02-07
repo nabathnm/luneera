@@ -51,7 +51,7 @@ export default function Color() {
           <h3 className="playfair text-primary text-sm sm:text-base">A refined selection of timeless shades, each chosen to complement your natural elegance.</h3>
         </div>
       </motion.div>
-    <div className="flex flex-col gap-4 md:gap-6 w-full px-25">
+    <div className="flex flex-col gap-4 md:gap-6 w-full md:px-25">
       <motion.div 
         className="grid grid-cols-2 md:grid-cols-4 gap-3 md:gap-4 lg:gap-6"
         initial="hidden"
