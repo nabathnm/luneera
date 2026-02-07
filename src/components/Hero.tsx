@@ -1,7 +1,7 @@
 export default function Hero() {
     return (
       <>
-      <div className="h-130 md:h-screen w-full flex relative overflow-hidden">
+      <div className="h-140 md:h-screen w-full flex relative overflow-hidden mt-10 md:mt-0">
         <div className="absolute top-30 left-25 hidden md:block">
           <h1 className="text-7xl cormorant text-primary">Elegance in</h1>
           <h1 className="text-7xl cormorant text-primary">Every Layer</h1>
